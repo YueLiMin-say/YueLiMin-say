@@ -1,23 +1,24 @@
-# Hi there 👋
+# 一入编程深似海,从此头发是路人.
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="./resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/YueLiMin-say/count.svg" />
 </p>
 
-<!--
-**YueLiMin-say/YueLiMin-say** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
 
-Here are some ideas to get you started:
+Q _ Q: 3054961900
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+邮箱: yueliminvc@outlook.com
+
+作者: 岳立民
+
+简介: 不修边幅的全栈工程师.
+
+## 统计
+
+[![](https://github-readme-stats.vercel.app/api?username=YueLiMin-say&show_icons=true)](https://github.com/YueLiMin-say/github-readme-stats)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=YueLiMin-say)](https://github.com/YueLiMin-say/github-readme-stats)
